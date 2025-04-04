@@ -231,3 +231,11 @@ CLASS net/minecraft/class_2602 net/minecraft/network/listener/ClientPlayPacketLi
 		ARG 1 packet
 	METHOD method_66579 onTestInstanceBlockStatus (Lnet/minecraft/class_10614;)V
 		ARG 1 packet
+	METHOD method_68893 onOpenDoor (Lnet/minecraft/class_10950;)V
+		ARG 1 packet
+	METHOD method_68894 onOpenWindow (Lnet/minecraft/class_10951;)V
+		ARG 1 packet
+	METHOD method_68896 onUpdateScreen (Lnet/minecraft/class_10953;)V
+		ARG 1 packet
+	METHOD method_68897 onUnlockedEffectsUpdate (Lnet/minecraft/class_10954;)V
+		ARG 1 packet

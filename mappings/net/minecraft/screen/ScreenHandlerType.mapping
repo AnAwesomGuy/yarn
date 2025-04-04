@@ -12,8 +12,35 @@ CLASS net/minecraft/class_3917 net/minecraft/screen/ScreenHandlerType
 	COMMENT on the server. See {@link ScreenHandlerFactory} for server-side creation.
 	COMMENT
 	COMMENT @see ScreenHandler
+	FIELD field_17326 GENERIC_9X3 Lnet/minecraft/class_3917;
+	FIELD field_17327 GENERIC_9X6 Lnet/minecraft/class_3917;
+	FIELD field_17328 GENERIC_3X3 Lnet/minecraft/class_3917;
+	FIELD field_17329 ANVIL Lnet/minecraft/class_3917;
+	FIELD field_17330 BEACON Lnet/minecraft/class_3917;
+	FIELD field_17331 BLAST_FURNACE Lnet/minecraft/class_3917;
+	FIELD field_17332 BREWING_STAND Lnet/minecraft/class_3917;
+	FIELD field_17333 CRAFTING Lnet/minecraft/class_3917;
+	FIELD field_17334 ENCHANTMENT Lnet/minecraft/class_3917;
+	FIELD field_17335 FURNACE Lnet/minecraft/class_3917;
+	FIELD field_17336 GRINDSTONE Lnet/minecraft/class_3917;
+	FIELD field_17337 HOPPER Lnet/minecraft/class_3917;
+	FIELD field_17338 LECTERN Lnet/minecraft/class_3917;
+	FIELD field_17339 LOOM Lnet/minecraft/class_3917;
+	FIELD field_17340 MERCHANT Lnet/minecraft/class_3917;
+	FIELD field_17341 SHULKER_BOX Lnet/minecraft/class_3917;
+	FIELD field_17342 SMOKER Lnet/minecraft/class_3917;
+	FIELD field_17343 CARTOGRAPHY_TABLE Lnet/minecraft/class_3917;
 	FIELD field_17344 factory Lnet/minecraft/class_3917$class_3918;
+	FIELD field_17625 STONECUTTER Lnet/minecraft/class_3917;
+	FIELD field_18664 GENERIC_9X1 Lnet/minecraft/class_3917;
+	FIELD field_18665 GENERIC_9X2 Lnet/minecraft/class_3917;
+	FIELD field_18666 GENERIC_9X4 Lnet/minecraft/class_3917;
+	FIELD field_18667 GENERIC_9X5 Lnet/minecraft/class_3917;
+	FIELD field_22484 SMITHING Lnet/minecraft/class_3917;
 	FIELD field_41923 requiredFeatures Lnet/minecraft/class_7699;
+	FIELD field_46790 CRAFTER_3X3 Lnet/minecraft/class_3917;
+	FIELD field_58798 DIMENSION_CONTROL Lnet/minecraft/class_3917;
+	FIELD field_58799 MAP_MAKING Lnet/minecraft/class_3917;
 	METHOD <init> (Lnet/minecraft/class_3917$class_3918;Lnet/minecraft/class_7699;)V
 		ARG 1 factory
 		ARG 2 requiredFeatures

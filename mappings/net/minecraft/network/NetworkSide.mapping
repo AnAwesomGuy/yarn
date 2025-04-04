@@ -1,4 +1,6 @@
 CLASS net/minecraft/class_2598 net/minecraft/network/NetworkSide
+	FIELD field_11941 SERVERBOUND Lnet/minecraft/class_2598;
+	FIELD field_11942 CLIENTBOUND Lnet/minecraft/class_2598;
 	FIELD field_48613 name Ljava/lang/String;
 	METHOD <init> (Ljava/lang/String;ILjava/lang/String;)V
 		ARG 3 name

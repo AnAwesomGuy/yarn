@@ -439,3 +439,4 @@ CLASS net/minecraft/class_1703 net/minecraft/screen/ScreenHandler
 		ARG 1 stack
 	METHOD method_68804 (Lnet/minecraft/class_5916;Lnet/minecraft/class_10927;)Lnet/minecraft/class_10927;
 		ARG 1 slot
+	METHOD method_69455 getTypeOrNull ()Lnet/minecraft/class_3917;

@@ -220,3 +220,5 @@ CLASS net/minecraft/class_3324 net/minecraft/server/PlayerManager
 		ARG 2 networkHandler
 	METHOD method_60598 sendStatusEffects (Lnet/minecraft/class_3222;)V
 		ARG 1 player
+	METHOD method_69185 (Lnet/minecraft/class_3917;Ljava/util/List;)V
+		ARG 1 type

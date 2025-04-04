@@ -6,4 +6,12 @@ CLASS net/minecraft/class_2664 net/minecraft/network/packet/s2c/play/ExplosionS2
 	COMMENT well as performing an explosion.
 	COMMENT
 	COMMENT @see net.minecraft.network.packet.s2c.play.EntityVelocityUpdateS2CPacket
+	FIELD comp_2883 center Lnet/minecraft/class_243;
+	FIELD comp_2884 playerKnockback Ljava/util/Optional;
+	FIELD comp_2885 explosionParticle Lnet/minecraft/class_2394;
+	FIELD comp_2886 explosionSound Lnet/minecraft/class_6880;
 	FIELD field_47925 CODEC Lnet/minecraft/class_9139;
+	METHOD comp_2883 center ()Lnet/minecraft/class_243;
+	METHOD comp_2884 playerKnockback ()Ljava/util/Optional;
+	METHOD comp_2885 explosionParticle ()Lnet/minecraft/class_2394;
+	METHOD comp_2886 explosionSound ()Lnet/minecraft/class_6880;
